@@ -21,25 +21,3 @@ A lightweight, console-based e-commerce simulation built with **Java**. This pro
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/your-username/online-shopping-cart.git](https://github.com/your-username/online-shopping-cart.git)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
